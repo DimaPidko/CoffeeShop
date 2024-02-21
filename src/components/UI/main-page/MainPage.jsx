@@ -16,7 +16,7 @@ const MainPage = () => {
             <div className={styles.divider}><hr /><img src="/Vector.png" alt="Vector" /><hr /></div>
             <h2>We makes every day full of energy and taste</h2>
             <h2>Want to try our beans?</h2>
-            <a href="#">More</a>
+            <a href="#" className={styles.button}>More</a>
         </div>
     </header>
  )
